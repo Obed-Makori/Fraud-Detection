@@ -1,5 +1,5 @@
 # Fraud-Detection
-##### Objective: Detect Fraud on the go with a comprehensive dataset (6.3+ Mil Rows)
+##### Objective: To detect Fraud on the go with a comprehensive dataset (6.3+ Mil Rows)
 
 
 ## About Dataset
